@@ -7,6 +7,16 @@ Proyek ini akan menganalisis performa penjualan dari sebuah Warmindo untuk menem
 
 Dataset Source: https://www.youtube.com/@bima-ngulikdata
 
+## 🗂️ Struktur Proyek
+```
+├───README.md
+├───Warmindo Analysis using SQL's Notebook.pdf (analysis process)
+├───dashboard_visualization.png
+├───Warmindo.csv (dataset)
+├───warmindo.sql (query)
+└───warmindo_db.db (database)
+```
+
 ## 🔍 Analysis & Insight
 ### Mendefinisikan Pertanyaan
 1. Bagaimana tren penjualan dari waktu ke Waktu?
